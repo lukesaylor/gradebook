@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "InXqeaUrMp7e1QY3dsK0vW98CbifDi73kj+Db4c5mFVb/l3+plrslkSRPrDXLZRGofwIopQPM9OQys302Pb6NA==",
+  "dgSpecHash": "8FePmQyWNOXq8Z4t6t2IT0jlnPDyYK0tCoHh2Y00XLTSiStCMdSDxstPPD0wTg3aznIr15m+fdE/NQE3nNgu4A==",
   "success": true,
-  "projectFilePath": "/Users/stephaniealtman/Desktop/Luke/gradebook/src/test/GradeBook.Tests/GradeBook.Tests.csproj",
+  "projectFilePath": "/Users/stephaniealtman/Desktop/Luke/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/stephaniealtman/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/stephaniealtman/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
