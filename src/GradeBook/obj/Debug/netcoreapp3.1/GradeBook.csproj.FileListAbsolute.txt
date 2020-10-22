@@ -22,3 +22,15 @@
 /Users/stephaniealtman/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
 /Users/stephaniealtman/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
 /Users/stephaniealtman/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
