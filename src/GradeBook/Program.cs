@@ -8,6 +8,8 @@ namespace GradeBook
         static void Main(string[] args)
         {
             var book = new Book("Lukes Gradebook");
+            book.AddGrade(95);
+            book.AddGrade(90);
              
             var stats = book.GetStatistics();
 
