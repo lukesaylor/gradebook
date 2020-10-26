@@ -3521,19 +3521,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/lukassaylor/.nuget/packages/": {}
+    "/Users/stephaniealtman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukassaylor/Desktop/Luke/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "projectUniqueName": "/Users/stephaniealtman/Desktop/Luke/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "/Users/lukassaylor/Desktop/Luke/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
-      "packagesPath": "/Users/lukassaylor/.nuget/packages/",
-      "outputPath": "/Users/lukassaylor/Desktop/Luke/gradebook/test/GradeBook.Tests/obj/",
+      "projectPath": "/Users/stephaniealtman/Desktop/Luke/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "packagesPath": "/Users/stephaniealtman/.nuget/packages/",
+      "outputPath": "/Users/stephaniealtman/Desktop/Luke/gradebook/test/GradeBook.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lukassaylor/.nuget/NuGet/NuGet.Config"
+        "/Users/stephaniealtman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -3544,8 +3544,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/GradeBook.csproj": {
-              "projectPath": "/Users/lukassaylor/Desktop/Luke/gradebook/src/GradeBook/GradeBook.csproj"
+            "/Users/stephaniealtman/Desktop/Luke/gradebook/src/GradeBook/GradeBook.csproj": {
+              "projectPath": "/Users/stephaniealtman/Desktop/Luke/gradebook/src/GradeBook/GradeBook.csproj"
             }
           }
         }
@@ -3591,7 +3591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }
