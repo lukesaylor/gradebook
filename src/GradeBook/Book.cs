@@ -68,7 +68,20 @@ namespace GradeBook
 
         public override Statistics GetStatistics()
         {
-            throw new NotImplementedException();
+            var result = new Statistics();
+
+            using(var reader = File.OpenText($"{Name}.txt"))
+            {
+                var line = reader.ReadLine();
+                while(line != null)
+                {
+                    var number = double.Parse(line);
+                    result.Add (number);
+                    line = reader.ReadLine();
+                }
+            }
+
+            return result;
         }
     }
 
@@ -129,7 +142,7 @@ namespace GradeBook
 
             for (var index = 0; index < grades.Count; index++)
             {
-                results.Add(grades[index]);
+                result.Add(grades[index]);
                 
 
 
